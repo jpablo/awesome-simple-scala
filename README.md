@@ -8,3 +8,6 @@ https://www.parleys.com/tutorial/options-futures-how-unsuck-them
 ## Implicits, Shapeless, Prolog in Scala
 
 http://rnduja.github.io/2016/01/19/a_shapeless_primer/
+
+## Type level programming
+https://gigiigig.github.io/tlp-step-by-step/introduction.html
